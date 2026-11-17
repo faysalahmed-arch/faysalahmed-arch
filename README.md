@@ -1,16 +1,31 @@
-## Hi there 👋
+Faysal Ahmed
+Architectural Designer · Urban Researcher
 
-<!--
-**faysalahmed-arch/faysalahmed-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://arfaysal.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
 
-Here are some ideas to get you started:
+About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Faysal Ahmed, an Architectural Designer and Urban Researcher interested in the relationship between architecture, people, and the built environment.
+
+My work explores how thoughtful design, spatial understanding, and research can contribute to more meaningful, functional, and sustainable environments.
+
+I believe architecture is more than designing buildings — it is about understanding people, responding to context, and shaping the spaces in which life happens.
+
+Areas of Interest
+Architectural Design
+Urban Research & Development
+Spatial Planning
+Sustainable Architecture
+Built Environment
+Human-Centered Design
+Explore My Work
+
+Portfolio: https://arfaysal.vercel.app/
+
+<p align="center">
+<i>Designing spaces. Understanding cities. Exploring possibilities.</i>
+</p>
